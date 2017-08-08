@@ -1,0 +1,58 @@
+<datospersonajes>
+	<personajes>
+		<personaje nombre="Alumno 1">
+        	<vidamax>240</vidamax>
+        	<enermax>240</enermax>
+        	<caosmax>200</caosmax>
+        	<ataque>6</ataque>
+        	<defensa>6</defensa>
+        	<velocidad>3</velocidad>
+        	<suerte>5</suerte>
+    	</personaje>
+        <personaje nombre="Alumno 2">
+            <vidamax>120</vidamax>
+            <enermax>200</enermax>
+            <caosmax>240</caosmax>
+            <ataque>5</ataque>
+            <defensa>3</defensa>
+            <velocidad>6</velocidad>
+            <suerte>6</suerte>
+        </personaje>
+        <personaje nombre="Alumno 3">
+            <vidamax>200</vidamax>
+            <enermax>200</enermax>
+            <caosmax>200</caosmax>
+            <ataque>5</ataque>
+            <defensa>5</defensa>
+            <velocidad>5</velocidad>
+            <suerte>5</suerte>
+        </personaje>
+        <personaje nombre="Profesor 1">
+            <vidamax>320</vidamax>
+            <enermax>160</enermax>
+            <caosmax>200</caosmax>
+            <ataque>4</ataque>
+            <defensa>8</defensa>
+            <velocidad>3</velocidad>
+            <suerte>5</suerte>
+        </personaje>
+        <personaje nombre="Profesor 2">
+            <vidamax>80</vidamax>
+            <enermax>160</enermax>
+            <caosmax>320</caosmax>
+            <ataque>4</ataque>
+            <defensa>2</defensa>
+            <velocidad>6</velocidad>
+            <suerte>8</suerte>
+        </personaje>
+        <personaje nombre="Profesor 3">
+            <vidamax>240</vidamax>
+            <enermax>280</enermax>
+            <caosmax>40</caosmax>
+            <ataque>7</ataque>
+            <defensa>6</defensa>
+            <velocidad>6</velocidad>
+            <suerte>1</suerte>
+        </personaje>
+	</personajes>
+</datospersonajes>
